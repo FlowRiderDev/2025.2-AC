@@ -1,0 +1,13 @@
+# Grafo de exemplo da AC
+# Formato:
+# - directed: false -> grafo não direcionado
+# - n: 5 -> vértices de 1 até 5
+# - cada linha abaixo representa uma aresta u v
+
+directed: false
+n: 5
+
+1 2
+1 3
+2 4
+3 5
